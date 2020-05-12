@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HqlTest.java&apos; to &apos;hibernatefirst/src/com.javatpoint.mypackage&apos;&#x0D;&#x0A;- Original project: &apos;hibernatewithannotation&apos;&#x0D;&#x0A;- Destination element: &apos;hibernatefirst/src/com.javatpoint.mypackage&apos;&#x0D;&#x0A;- Original element: &apos;com.javatpoint.HqlTest.java&apos;" description="Copy compilation unit" destination="=hibernatefirst/src&lt;com.javatpoint.mypackage" element1="/src&lt;com.javatpoint{HqlTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1475317217765" units="1" version="1.0"/>
+</session>

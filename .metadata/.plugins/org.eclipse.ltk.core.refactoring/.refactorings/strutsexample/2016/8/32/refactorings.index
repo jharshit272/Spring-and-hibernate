@@ -1,0 +1,5 @@
+1470469276208	Rename package 'aptech'
+1470469325459	Rename type 'Product'
+1470470823883	Move 'error.jsp' to 'WebContent'
+1470470884376	Move 'struts.xml' to 'classes'
+1470471221046	Delete elements

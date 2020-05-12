@@ -1,0 +1,6 @@
+127.0.0.1 - - [13/Aug/2016:23:34:39 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [13/Aug/2016:23:34:41 +0530] "GET /strutsuserdetailsusingbean/ HTTP/1.1" 200 1095
+0:0:0:0:0:0:0:1 - - [13/Aug/2016:23:34:52 +0530] "POST /strutsuserdetailsusingbean/verify.action;jsessionid=055E507F49401035D398385C5A21A736 HTTP/1.1" 200 47
+127.0.0.1 - - [13/Aug/2016:23:56:25 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [13/Aug/2016:23:56:26 +0530] "GET /strutsuserdetailsusingbean/ HTTP/1.1" 200 1051
+0:0:0:0:0:0:0:1 - - [13/Aug/2016:23:56:30 +0530] "POST /strutsuserdetailsusingbean/verify.action HTTP/1.1" 200 43

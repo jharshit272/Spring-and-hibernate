@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/aop.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/core.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/ibatis.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/j2ee.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/javaconfig.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/misc.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/persistCore.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/persistJdbc.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/persistJDO.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/remoting.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/test.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/springjars/springjars/web.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/spcorejars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/windows 10 desktop/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

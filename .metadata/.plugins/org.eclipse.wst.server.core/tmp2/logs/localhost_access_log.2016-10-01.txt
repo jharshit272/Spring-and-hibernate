@@ -1,0 +1,6 @@
+127.0.0.1 - - [01/Oct/2016:19:08:33 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [01/Oct/2016:19:08:34 +0530] "GET /learnJavascript/first.html HTTP/1.1" 200 237
+0:0:0:0:0:0:0:1 - - [01/Oct/2016:19:11:25 +0530] "GET /learnJavascript/first.html HTTP/1.1" 200 276
+0:0:0:0:0:0:0:1 - - [01/Oct/2016:19:14:52 +0530] "GET /learnJavascript/first.html HTTP/1.1" 200 385
+0:0:0:0:0:0:0:1 - - [01/Oct/2016:19:15:50 +0530] "GET /learnJavascript/first.html HTTP/1.1" 200 501
+0:0:0:0:0:0:0:1 - - [01/Oct/2016:19:18:09 +0530] "GET /learnJavascript/first.html HTTP/1.1" 200 686

@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:42:33 +0530] "GET /learnJavascript/whereTo.html HTTP/1.1" 200 334
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:42:47 +0530] "GET /learnJavascript/whereTo.html HTTP/1.1" 200 333
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:45:32 +0530] "GET /learnJavascript/whereTo.html HTTP/1.1" 200 369
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:45:33 +0530] "GET /learnJavascript/myScript.js HTTP/1.1" 200 112
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:48:06 +0530] "GET /learnJavascript/jsOutput.html HTTP/1.1" 200 195
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:48:33 +0530] "GET /learnJavascript/jsOutput.html HTTP/1.1" 200 155
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:49:38 +0530] "GET /learnJavascript/jsOutput.html HTTP/1.1" 200 222
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:50:24 +0530] "GET /learnJavascript/jsOutput.html HTTP/1.1" 200 231
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:50:26 +0530] "GET /learnJavascript/jsOutput.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:51:17 +0530] "GET /learnJavascript/jsOutput.html HTTP/1.1" 200 280
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:09:53:28 +0530] "GET /learnJavascript/jsOutput.html HTTP/1.1" 200 339
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:10:18:32 +0530] "GET /learnJavascript/syntax.html HTTP/1.1" 200 276
+0:0:0:0:0:0:0:1 - - [02/Oct/2016:23:59:38 +0530] "GET /learnJavascript/example.html HTTP/1.1" 200 197

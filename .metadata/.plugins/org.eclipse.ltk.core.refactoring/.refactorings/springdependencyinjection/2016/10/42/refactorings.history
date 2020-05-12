@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;springdependencyinjection&apos;&#x0D;&#x0A;- Original project: &apos;springdependencyinjection&apos;&#x0D;&#x0A;- Original element: &apos;springdependencyinjection/src/springdependencyinjection&apos;" description="Delete element" element1="/src&lt;springdependencyinjection" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1476001163567" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+package com.javatpoint;  
+import javax.jws.WebService;  
+
+//Service Implementation  
+
+@WebService(endpointInterface = "com.javatpoint.HelloWorld")  
+public class HelloWorldImpl implements HelloWorld{  
+	
+	static int num = 10;
+	
+	@Override  
+	public String getHelloWorldAsString(String name) {  
+		System.out.println(num++);
+		return "Hello World JAX-WS " + name;  
+		
+	}  
+}  

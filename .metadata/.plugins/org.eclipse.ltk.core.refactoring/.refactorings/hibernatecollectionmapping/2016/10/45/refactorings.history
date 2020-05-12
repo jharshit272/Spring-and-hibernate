@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;hibernatecollectionmapping/src/employee.hbm.xml&apos; to &apos;question.hbm.xml&apos;" description="Rename resource &apos;employee.hbm.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/employee.hbm.xml" name="question.hbm.xml" stamp="1477853229944" updateReferences="true"/>
+</session>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<job>
+    <email>harshit.jain@qamadeeasy.com</email>
+    <name>Harshit Jain</name>
+    <createdBy>harshit</createdBy>
+    <address>
+        <houseNo>8</houseNo>
+        <city>Delhi</city>
+    </address>
+</job>

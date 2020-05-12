@@ -1,0 +1,39 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+	<bean id="id1" class="java4s.WelcomeBean">
+
+		<property name="studentsData">
+			<set>
+				<value>java4s</value>
+				<value>sun</value>
+				<value>oracle</value>
+				<value>sun</value>
+				<value>sun</value>
+			</set>
+		</property>
+		<property name="studentsDataList">
+			<list>
+				<value>java4s</value>
+				<value>sun</value>
+				<value>oracle</value>
+				<value>java4s</value>
+			</list>
+		</property>
+		<property name="data">
+			<map>
+				<entry key="k1">
+					<value>10</value>
+				</entry>
+				<entry key="k2">
+					<value>java4s</value>
+				</entry>
+				<entry key="k3">
+					<value>10.55</value>
+				</entry>
+			</map>
+		</property>
+
+	</bean>
+</beans>
